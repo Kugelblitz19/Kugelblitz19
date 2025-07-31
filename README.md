@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kunal Priyadarshi</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **React.js, Microservices,**
+- 🌱 I’m currently learning **AI,**
 
 - 📝 I regularly write articles on [https://medium.com/@kunal123priya](https://medium.com/@kunal123priya)
 
-- 💬 Ask me about **Java, SQL, Spring-Boot**
+- 💬 Ask me about **Java, SQL, Spring-Boot,Microservices, react.js**
 
 - 📫 How to reach me **Kunal123priya@gmail.com**
 
