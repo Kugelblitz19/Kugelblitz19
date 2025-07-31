@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Priyadarshi</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **AI,**
+- 🌱 I’m currently Exploring **AI,**
 
 - 📝 I regularly write articles on [https://medium.com/@kunal123priya](https://medium.com/@kunal123priya)
 
