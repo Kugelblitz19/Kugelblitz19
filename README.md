@@ -10,7 +10,6 @@
 
 <a href="https://www.linkedin.com/in/kunal-priyadarshi-34769a179/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@kunal123priya"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="https://www.youtube.com/@code_with_kunal19"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://www.instagram.com/lens_and_lyfe"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:Kunal123priya@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -93,11 +92,13 @@ const kunal = {
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🎨 **[looksy](https://github.com/Kugelblitz19/looksy)** | Upload a selfie, pick a vibe, get AI photos of you in that look | `Next.js` · `TypeScript` · `Google Gemini` |
-| 💸 **[finpilot-ai-backend](https://github.com/Kugelblitz19/finpilot-ai-backend)** | AI-powered fintech backend — expense analytics & financial insight APIs | `Java` · `Spring Boot` · `JWT` |
-| 🔐 **[AiAuthService](https://github.com/Kugelblitz19/AiAuthService)** | Auth service powering AI accounts | `Java` · `Spring Security` |
+| 🎨 **looksy** 🔒 | Upload a selfie, pick a vibe, get AI photos of you in that look | `Next.js` · `TypeScript` · `Google Gemini` |
+| 💸 **finpilot-ai-backend** 🔒 | AI-powered fintech backend — expense analytics & financial insight APIs | `Java` · `Spring Boot` · `JWT` |
+| 🔐 **AiAuthService** 🔒 | Auth service powering AI accounts | `Java` · `Spring Security` |
 | 🧩 **[FullStack-Auth-System](https://github.com/Kugelblitz19/FullStack-Auth-System)** | End-to-end JWT auth — Spring Security backend + React frontend | `Java` · `React` · `JWT` |
 | 🧾 **[order-payment-invoice-refund-system](https://github.com/Kugelblitz19/order-payment-invoice-refund-system)** | Complete order → payment → invoice → refund backend | `Java` · `Spring Boot` |
+
+<sub>🔒 = currently private — happy to walk through the code on request.</sub>
 
 ---
 
@@ -110,7 +111,8 @@ const kunal = {
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kugelblitz19&hide_border=true&theme=github-dark" alt="streak" />
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kugelblitz19&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kugelblitz19&theme=github_dark" alt="repos per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kugelblitz19&theme=github_dark&utcOffset=5.5" alt="productive time" />
 
 </div>
 
