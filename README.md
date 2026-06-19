@@ -90,15 +90,19 @@ const kunal = {
 
 ## 🚀 Featured Builds
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🎨 **looksy** 🔒 | Upload a selfie, pick a vibe, get AI photos of you in that look | `Next.js` · `TypeScript` · `Google Gemini` |
-| 💸 **finpilot-ai-backend** 🔒 | AI-powered fintech backend — expense analytics & financial insight APIs | `Java` · `Spring Boot` · `JWT` |
-| 🔐 **AiAuthService** 🔒 | Auth service powering AI accounts | `Java` · `Spring Security` |
-| 🧩 **[FullStack-Auth-System](https://github.com/Kugelblitz19/FullStack-Auth-System)** | End-to-end JWT auth — Spring Security backend + React frontend | `Java` · `React` · `JWT` |
-| 🧾 **[order-payment-invoice-refund-system](https://github.com/Kugelblitz19/order-payment-invoice-refund-system)** | Complete order → payment → invoice → refund backend | `Java` · `Spring Boot` |
+<div align="center">
 
-<sub>🔒 = currently private — happy to walk through the code on request.</sub>
+<a href="https://github.com/Kugelblitz19/looksy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kugelblitz19&repo=looksy&theme=github_dark" height="125" alt="looksy"/></a>
+<a href="https://github.com/Kugelblitz19/FullStack-Auth-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kugelblitz19&repo=FullStack-Auth-System&theme=github_dark" height="125" alt="FullStack-Auth-System"/></a>
+<a href="https://github.com/Kugelblitz19/order-payment-invoice-refund-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kugelblitz19&repo=order-payment-invoice-refund-system&theme=github_dark" height="125" alt="order-payment-invoice-refund-system"/></a>
+
+</div>
+
+<p align="center">
+🎨 <a href="https://github.com/Kugelblitz19/looksy"><b>looksy</b></a> — selfie + vibe → AI photos of you in that look · <code>Next.js</code> · <code>TypeScript</code> · <code>Gemini</code>
+</p>
+
+<sub>🔒 <b>Also building (private):</b> <code>finpilot-ai-backend</code> — AI fintech backend (expense analytics & insight APIs) · <code>AiAuthService</code> — auth service for AI accounts. Ping me for a walkthrough.</sub>
 
 ---
 
