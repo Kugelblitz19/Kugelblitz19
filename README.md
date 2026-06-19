@@ -1,12 +1,12 @@
 <!-- ====================== HEADER ====================== -->
 <a href="https://github.com/Kugelblitz19">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Kunal%20Priyadarshi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%C3%97%20Full-Stack%20AI%20Builder&descSize=18&descAlignY=60" alt="Kunal Priyadarshi" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:30363d&height=200&section=header&text=Kunal%20Priyadarshi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%C3%97%20Full-Stack%20AI%20Builder&descSize=18&descColor=8b949e&descAlignY=60" alt="Kunal Priyadarshi" />
 </a>
 
 <!-- ====================== TYPING TAGLINE ====================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2575FC&center=true&vCenter=true&width=720&lines=AI+Product+Builder+%F0%9F%9A%80;3.9%2B+yrs+as+a+Java+Backend+Engineer;Now+building+AI-native+learning+products+end-to-end;Backend+%E2%86%92+Frontend+%E2%86%92+DB+%E2%80%94+whatever+it+takes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Product+Builder+%F0%9F%9A%80;3.9%2B+yrs+as+a+Java+Backend+Engineer;Now+building+AI-native+learning+products+end-to-end;Backend+%E2%86%92+Frontend+%E2%86%92+DB+%E2%80%94+whatever+it+takes)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/kunal-priyadarshi-34769a179/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@kunal123priya"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
@@ -14,7 +14,11 @@
 <a href="https://www.instagram.com/lens_and_lyfe"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:Kunal123priya@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=kugelblitz19&label=Profile%20views&color=2575fc&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=kugelblitz19&label=Profile%20views&color=30363d&style=flat-square" alt="profile views" />
+
+<br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 </div>
 
@@ -101,12 +105,26 @@ const kunal = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kugelblitz19&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kugelblitz19&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kugelblitz19&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kugelblitz19&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="top langs" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kugelblitz19&hide_border=true&theme=tokyonight" alt="streak" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kugelblitz19&hide_border=true&theme=github-dark" alt="streak" />
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kugelblitz19&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kugelblitz19&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kugelblitz19/Kugelblitz19/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kugelblitz19/Kugelblitz19/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kugelblitz19/Kugelblitz19/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -116,8 +134,8 @@ const kunal = {
 
 ### 💬 Got a product idea worth building? Let's talk.
 
-<i>"The best way to predict the product is to build it." </i>
+<i>"The best way to predict the product is to build it."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:161b22&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
